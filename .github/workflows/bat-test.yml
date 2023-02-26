@@ -1,5 +1,5 @@
 name: bat-test
-run-name: ${{ github.actor }} testing bat-test
+#run-name: ${{ github.actor }} testing bat-test
 on: [push]
 jobs:
   check-bats-version:
